@@ -12,6 +12,8 @@ CFC d'électronicien
 
 ### 2024 ...
 
+commit et reverse commit
+
 Bachelor à l'HEIG-VD en TIC en Système embarqué
 <!--
 **thomasstaheli/thomasstaheli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
