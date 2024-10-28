@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Thomas Stähli
+# Thomas Stäheli
 
 **Position:** Student in embedded computing at the HEIG-VD  \
 **Contact:** [thomas.staheli@heig-vd.ch](mailto:thomas.staheli@heig-vd.ch)
