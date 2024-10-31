@@ -31,7 +31,7 @@ I am a motivated, curious, and dedicated 22-year-old with a strong passion for e
 - **High School Diploma**
   - Gymnase au GYB (2018 - 2019)
 - **Electronics Apprenticeship**
-  - Payerne Air Base (2019 - 2023)
+  - Payerne Military Air Base (2019 - 2023)
 - **Bachelor in Embedded computing**
   - HEIG-VD Yverdons-les-bains (2024-...)   
 
