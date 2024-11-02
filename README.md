@@ -55,7 +55,7 @@ Here are some significant projects I completed during my apprenticeship:
 2. **Apache Server for Meteorological Data:**
    - Set up a server to store and transmit meteorological data via WiFi.
 
-3. **User Interface for Selecta:**
+3. **User Interface for Selecta (vending machine):**
    - Complete redesign of the electronic interface using Flask, including web interface and data storage for Selecta users.
 
 4. **Participation in the "Patient Quality of Life" Challenge:**
